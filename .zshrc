@@ -1,3 +1,6 @@
+# enable common settings
+ source ~/.profile
+
 eval "$(rbenv init - zsh)"
 
 # settings
